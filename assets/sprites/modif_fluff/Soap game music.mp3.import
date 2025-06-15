@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ogsrgtvltdap"
+path="res://.godot/imported/Soap game music.mp3-40da950e014e517f7f8b26fff5a37836.mp3str"
+
+[deps]
+
+source_file="res://assets/sprites/modif_fluff/Soap game music.mp3"
+dest_files=["res://.godot/imported/Soap game music.mp3-40da950e014e517f7f8b26fff5a37836.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
